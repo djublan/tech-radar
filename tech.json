@@ -7,9 +7,23 @@
     "description": "Top fou"
   },
   {
+    "name": "Canary builds",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Many projects have external code dependencies ..."
+  },
+  {
+    "name": "Apache Kylin",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Apache Kylin is an open source analytics solution ..."
+  },
+  {
     "name": "Sparx Enterprise Architect",
     "ring": "hold",
-    "quadrant": "tools",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "Yish"
   }
